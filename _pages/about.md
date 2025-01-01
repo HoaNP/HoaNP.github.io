@@ -1,13 +1,4 @@
----
-permalink: /
-title: "Hoa Nguyen | Phd student in cryptography"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-  
-# Hoa Nguyen
+
 
 ### *Current Position - PhD Student in Cryptography*
 
@@ -18,7 +9,7 @@ redirect_from:
 - **Ph.D.**, Cryptography\
   University of Rennes\
   (*October 2021 – Thesis submitted: December 2024*)\
-  *Thesis: Enhancing Cryptanalysis Techniques Using Automated Tools*
+  *Thesis: New Automated Approaches in Cryptanalysis*
 
 - **M.Sc.**, Information Security and Cryptology\
   University of Limoges\
@@ -153,6 +144,5 @@ FPT Software, Hanoi, Vietnam\
 
 ---
 
-**Connect with me:**\
-[LinkedIn](#) | [GitHub](#) | [Website](#)
+
 
