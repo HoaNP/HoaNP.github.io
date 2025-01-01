@@ -5,10 +5,6 @@ redirect_from:
   - /about.html
 ---
 
-### *Current Position - PhD Student in Cryptography*
-
----
-
 ## 🎓 Education
 
 - **Ph.D.**, Cryptography\
