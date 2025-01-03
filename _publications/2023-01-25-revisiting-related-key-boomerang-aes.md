@@ -1,6 +1,7 @@
 ---
 title: "Revisiting Related-Key Boomerang Attacks on AES Using Computer-Aided Tool"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-25-revisiting-related-key-boomerang-aes
 excerpt: 'This paper revisits related-key boomerang attacks on AES with a focus on utilizing computer-aided tools for enhanced cryptanalysis.'
 date: 2023-01-25

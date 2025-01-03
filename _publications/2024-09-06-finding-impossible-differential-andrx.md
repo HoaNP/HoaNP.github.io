@@ -1,6 +1,7 @@
 ---
 title: "Finding Complete Impossible Differential Attacks on AndRX Ciphers and Efficient Distinguishers for ARX Designs"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-09-06-finding-impossible-differential-andrx
 excerpt: 'This paper explores advanced techniques for impossible differential attacks on AndRX ciphers and efficient distinguishers for ARX designs.'
 date: 2024-09-06

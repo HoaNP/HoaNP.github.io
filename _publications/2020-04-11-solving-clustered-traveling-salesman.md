@@ -1,6 +1,7 @@
 ---
 title: "Solving the Clustered Traveling Salesman Problem with d-Relaxed Priority Rule"
 collection: publications
+category: manuscripts
 permalink: /publication/2020-04-11-solving-clustered-traveling-salesman
 excerpt: 'This paper addresses the clustered traveling salesman problem using a d-relaxed priority rule, contributing to optimization techniques in logistics.'
 date: 2020-04-11
