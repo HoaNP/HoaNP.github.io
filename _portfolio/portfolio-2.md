@@ -1,6 +1,7 @@
 ---
 title: "Random pics"
 excerpt: "My little elephant also wants to explore the world. <br/><img src='/images/20230812_121413.jpg'>"
+collection: portfolio
 ---
 
 <img src='/images/20230812_121413.jpg'>
