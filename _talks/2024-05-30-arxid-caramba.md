@@ -8,6 +8,4 @@ date: 2024-05-30
 location: "Nancy,France"
 ---
 
-[More information here](http://exampleurl.com)
-
-This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+[More information here](https://caramba.loria.fr/sem-slides/202405301030.pdf)

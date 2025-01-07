@@ -28,70 +28,65 @@ redirect_from:
 
 ## 🔬 Research Experience
 
-### **Ph.D. Student**
+### **Ph.D. Researcher**
+**IRISA, Rennes, France** | *October 2021 – December 2024*
 
-IRISA, Rennes, France\
-(*October 2021 – December 2024*)
-
-- **Developed advanced automated tools** to optimize cryptanalysis methods, including:
-  - Differential Meet-in-the-Middle attacks on bitwise AndRX ciphers (e.g., SIMON, Simeck).
-  - Rebound attacks utilizing MILP models for Groestl and other cryptographic designs.
-- Authored publications in top-tier journals and conferences, contributing to the field of symmetric-key cryptography.
-- Collaborated with international researchers to validate findings and improve attack frameworks.
+- Developed automated tools to optimize cryptanalysis methods.
+- Authored multiple publications in top-tier cryptography journals and conferences.
+- Collaborated internationally to refine attack frameworks and models.
 
 ### **Research Intern**
+**IAIK, Graz, Austria** | *September 2023 – December 2023*
 
-IAIK, Graz, Austria\
-(*September 2023 – December 2023*)
-
-- Enhanced computational efficiency of Rebound attacks using MILP models.
-- Conducted in-depth analysis of ARX and SPN cipher structures, leading to minor complexity improvements.
-- Presented findings at internal seminars, sparking collaborative discussions.
+- Enhanced Rebound attack efficiency using MILP models.
+- Conducted analysis on ARX and SPN ciphers, leading to complexity optimizations.
+- Presented findings at internal seminars, fostering collaborative discussions.
 
 ### **Research Assistant**
+**Operations Research Lab, Hanoi, Vietnam** | *April 2017 – July 2019*
 
-Operations Research Lab, Hanoi, Vietnam\
-(*September 2023 – December 2023*)
-
-- **Developed optimization algorithms** for shift scheduling and vehicle routing problems.
-- Published an international journal paper detailing algorithmic methodologies and results.
-- Coordinated with stakeholders to adapt solutions for real-world logistics scenarios.
+- Developed optimization algorithms for shift scheduling and vehicle routing problems.
+- Published an international journal paper on algorithmic methodologies.
+- Coordinated with real-world logistics stakeholders to implement solutions.
 
 ### **Research Intern**
+**Ngee Ann Polytechnic, Singapore** | *November 2016 – May 2017*
 
-Ngee Ann Polytechnic, Singapore\
-(*November 2016 – May 2017*)
-
-- Designed and developed PHP-based web applications utilizing Bluetooth Low Energy beacons.
-- Built and maintained scalable databases and cloud infrastructure on DigitalOcean.
-- Created APIs to support mobile app integration, improving application functionality.
+- Designed web applications using PHP and Bluetooth Low Energy beacons.
+- Developed APIs and managed cloud infrastructure for mobile app integration.
 
 ---
 
 ## 💼 Professional Experience
 
 ### **Junior Data Scientist**
+**Teko Technology JSC, Hanoi, Vietnam** | *January 2019 – June 2019*
 
-Teko Technology JSC, Hanoi, Vietnam\
-(*January 2019 – June 2019*)
-
-- Developed ML models to detect fraudulent transactions in online payment systems.
-- Achieved 88% accuracy in fraud detection, significantly reducing financial risks.
-- Analyzed datasets to uncover trends and anomalies, optimizing system reliability.
+- Developed ML models for fraud detection, achieving 88% accuracy in online payment systems.
+- Analyzed trends and anomalies, enhancing system reliability.
 
 ### **Early Career Experience**
+- **Web Developer Intern** at CyRadar (May – Aug 2016)
+- **C++ Developer (Part-time)** at FPT Software (Sept 2015 – Feb 2016)
 
-**Web Developer Intern**
-CyRadar - Cyber Security Company, Hanoi, Vietnam\
-(*May 2016 – August 2016*)
+---
 
-- Studied Laravel framework and developed a security management system using PHP.
+## 📜 Publications
 
-**C++ Developer (Part-time)**
-FPT Software, Hanoi, Vietnam\
-(*September 2015 – February 2016*)
+1. Debasmita Chakraborty, Hosein Hadipour, **Phuong Hoa Nguyen**, Maria Eichlseder,  
+   *Finding Complete Impossible Differential Attacks on AndRX Ciphers and Efficient Distinguishers for ARX Designs*,  
+   **IACR Transactions on Symmetric Cryptology**, TOSC-2024(3).  
+   [DOI: 10.46586/tosc.v2024.i3.84-176](https://doi.org/10.46586/tosc.v2024.i3.84-176)
 
-- Implemented a Regular Behavior Measure Project to identify user status during check-ins using a multinomial-distribution-based method.
+2. Patrick Derbez, Marie Euler, Pierre-Alain Fouque, **Phuong Hoa Nguyen**,  
+   *Revisiting Related-Key Boomerang Attacks on AES Using Computer-Aided Tools*,  
+   **Advances in Cryptology – ASIACRYPT 2022**.  
+   [DOI: 10.1007/978-3-031-22969-5_3](https://doi.org/10.1007/978-3-031-22969-5_3)
+
+3. Minh Hoàng Hà, **Hoa Nguyen Phuong**, Huyen Tran Ngoc Nhat, André Langevin, Martin Trépanier,  
+   *Solving the Clustered Traveling Salesman Problem with D-Relaxed Priority Rule*,  
+   **International Transactions in Operational Research**.  
+   [DOI: 10.1111/itor.12797](https://doi.org/10.1111/itor.12797)
 
 ---
 
@@ -121,7 +116,7 @@ FPT Software, Hanoi, Vietnam\
 
 - **Languages**: Proficient in C/C++, Python, Bash scripting, LATEX.
 - **Tools**: Proficient with MILP solvers, Linux command line, Git, and Docker.
-- **Cryptography**: Deep expertise in classical cryptanalysis techniques; working knowledge of public-key cryptography.
+- **Cryptography**: Deep expertise in classical cryptanalysis techniques.
 - **Data Science**: Experience with machine learning algorithms, data visualization, and statistical analysis.
 
 ### **Soft Skills**
