@@ -1,6 +1,6 @@
 ---
 title: "France in my eyes"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/IMG2.jpg'>"
+excerpt: "A snapshot of the beauty and diversity of France, seen through my eyes.<br/><img src='/images/IMG2.jpg'>"
 collection: portfolio
 ---
 
