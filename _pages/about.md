@@ -5,13 +5,16 @@ redirect_from:
   - /about.html
 ---
 
-👋👋👋
+👋👋👋 Hello, hello! 
 <div style="text-align: justify;">
 
-<p>Hello, hello! I’m Hoa Nguyen, currently a PhD student in the <a href="https://team.inria.fr/capsule/">CAPSULE team</a> at IRISA, France, under the supervision of <a href="https://people.irisa.fr/Patrick.Derbez/">Patrick Derbez</a>. I am in the final stages of my PhD, where I explore the art of cryptanalysis of symmetric primitives and focus on optimization techniques. My research centers on developing automated tools for cryptanalysis, with a particular interest in using MILP models.</p>
+<p>I'm <strong>Hoa Nguyen</strong>, currently a Postdoctoral Researcher in the <a href="https://www.telecom-paris.fr/en/research/labs/information-processing-ltci/teams/cybersecurity-cryptography">C2 (Cybersecurity and Cryptography) team</a> at <a href="https://www.telecom-paris.fr/en/home">Télécom Paris</a>, <a href="https://www.ip-paris.fr/en">Institut Polytechnique de Paris</a>, working with <a href="https://sites.google.com/view/qingjuwang">Qingju Wang</a>. My current research focuses on the design and evaluation of lightweight cryptographic primitives specifically tailored for constrained environments and Multi-Party Computation (MPC) contexts.</p>
 
-<p>When I’m not diving deep into cryptography, you’ll likely find me traveling to new destinations and exploring diverse cultures. After all, life isn’t just about cracking codes, it’s also about discovering the world around us.</p>
+<p>I recently completed my PhD in the <a href="https://team.inria.fr/capsule/">CAPSULE team</a> at <a href="https://www.irisa.fr/en">IRISA</a>, France, under the supervision of <a href="https://people.irisa.fr/Patrick.Derbez/">Patrick Derbez</a>. My doctoral research explored the art of cryptanalysis of symmetric primitives, with a primary focus on developing automated tools using MILP (Mixed-Integer Linear Programming) models and optimization techniques.</p>
+
+<p>In the lab, I solve for $X$; in the real world, I’m usually just looking for the next "Spot X" on a map. Whether I'm optimizing a lightweight primitive or a lightweight backpack, I’m always searching for the most efficient route to a new culture.</p>
 
 </div>
 
-🚲 ✈️ 🏝️ 🏔️
+✈️ 🏝️ 🏔️
+
