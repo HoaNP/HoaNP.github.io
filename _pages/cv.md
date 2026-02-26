@@ -11,7 +11,7 @@ redirect_from:
 
 - **Ph.D.**, Cryptography\
   University of Rennes\
-  (*October 2021 – Thesis submitted: December 2024*)\
+  (*October 2021 – February 2025*)\
   *Thesis: New Automated Approaches in Cryptanalysis*
 
 - **M.Sc.**, Information Security and Cryptology\
@@ -29,7 +29,7 @@ redirect_from:
 ## 🔬 Research Experience
 
 ### **Ph.D. Researcher**
-**IRISA, Rennes, France** | *October 2021 – December 2024*
+**IRISA, Rennes, France** | *October 2021 – February 2025*
 
 - Developed automated tools to optimize cryptanalysis methods.
 - Authored multiple publications in top-tier cryptography journals and conferences.
@@ -39,7 +39,7 @@ redirect_from:
 **IAIK, Graz, Austria** | *September 2023 – December 2023*
 
 - Enhanced Rebound attack efficiency using MILP models.
-- Conducted analysis on ARX and SPN ciphers, leading to complexity optimizations.
+- Conducted analysis on AES-like ciphers, leading to complexity optimizations.
 - Presented findings at internal seminars, fostering collaborative discussions.
 
 ### **Research Assistant**
@@ -92,13 +92,13 @@ redirect_from:
 
 ## 🛠️ Services
 
-- **2023 – 2024**: External Reviewer for *ASIACRYPT 2023, EUROCRYPT 2024, CRYPTO 2024*.
+- **2023 – 2026**: External Reviewer for *ASIACRYPT 2023, EUROCRYPT 2024, CRYPTO 2024, CRYPTO 2025, CRYPTO 2026*.
 - **04/2023**: Volunteer at *EUROCRYPT 2023*, assisting in event coordination and participant support.
 
 ---
 
 ## 🏆 Honors & Awards
-
+- **12/2025**: First Prize, International Olympiad in Cryptography, NSUCRYPTO2025.
 - **12/2022**: Third Prize, International Olympiad in Cryptography, NSUCRYPTO2022.
 - **05/2021**: Bourse de thèse par le PEC, Thesis Scholarship.
 - **05/2019**: Vingroup Scholarship, Fully Funded Master's Scholarship.
@@ -106,7 +106,7 @@ redirect_from:
 - **12/2017**: Vietnam Female Science and Technology Student Award, Given by the Ministry of Science and Technology.
 - **11/2016**: Ngee Ann Polytechnic Singapore Intern, Fully Funded Scholarship.
 - **10/2014**: Third Prize, ACM/ICPC Vietnam National Round 2014.
-- **05/2013**: The Nguyen Van Dao Scholarship, Fully Funded Undergraduate Scholarship for Talented Students.
+- **05/2013**: The Nguyen Van Dao Scholarship, a fully funded undergraduate scholarship for Talented Students.
 
 ---
 
@@ -130,7 +130,7 @@ redirect_from:
 ## 🌐 Languages
 
 - **English**: Fluent (Professional working proficiency).
-- **French**: Intermediate (A2 level).
+- **French**: Elementary (A2 level).
 - **Vietnamese**: Native.
 
 ---
