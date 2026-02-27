@@ -22,7 +22,7 @@ redirect_from:
 - **B.Sc.**, Computer Science\
   FPT University\
   (*2013 – 2018*)\
-  *Ranked Top 5% of Graduating Class*
+  *Best student of the Computer Science Program 2018*
 
 ---
 
@@ -105,8 +105,8 @@ redirect_from:
 ---
 
 ## 🏆 Honors & Awards
-- **12/2025**: First Prize, International Olympiad in Cryptography, NSUCRYPTO2025.
-- **12/2022**: Third Prize, International Olympiad in Cryptography, NSUCRYPTO2022.
+- **12/2025**: First Prize, International Olympiad in Cryptography, [NSUCRYPTO2025](https://nsucrypto.nsu.ru/archive/2025/total_results/#data).
+- **12/2022**: Third Prize, International Olympiad in Cryptography, [NSUCRYPTO2022](https://nsucrypto.nsu.ru/archive/2022/total_results/#data).
 - **05/2021**: Bourse de thèse par le PEC, Thesis Scholarship.
 - **05/2019**: Vingroup Scholarship, Fully Funded Master's Scholarship.
 - **04/2018**: Third Prize, Power Laws: Optimizing Demand-side Strategies, Hosted by [DrivenData](https://www.drivendata.co/blog/power-laws-optimization-winners/). 
@@ -137,7 +137,7 @@ redirect_from:
 ## 🌐 Languages
 
 - **English**: Fluent (Professional working proficiency).
-- **French**: Elementary (A2 level).
+- **French**: Elementary (A2, currently pursuing B1).
 - **Vietnamese**: Native.
 
 ---
