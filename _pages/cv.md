@@ -28,6 +28,13 @@ redirect_from:
 
 ## 🔬 Research Experience
 
+### **Postdoctoral Researcher**
+**Télécom Paris, Institut Polytechnique de Paris, France** | *June 2025 – Present*
+
+- Designed and evaluated lightweight cryptographic primitives tailored for constrained environments and Multi-Party Computation (MPC).
+- Analyzed security vs. performance trade-offs for hardware-friendly cryptographic implementations.
+- Investigated new statistical attacks on symmetric-key primitives.
+
 ### **Ph.D. Researcher**
 **IRISA, Rennes, France** | *October 2021 – February 2025*
 
