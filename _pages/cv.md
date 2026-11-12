@@ -26,10 +26,16 @@ redirect_from:
 
 ---
 
-## 🔬 Research Experience
+## 🔬 Research and Teaching Experience
+
+### **ATER (Attaché Temporaire d'Enseignement et de Recherche) in Computer Science**
+**Grenoble INP – Esisar, LCIS laboratory, Valence, France** | *September 2026 – Present*
+
+- Teaching cryptography (IN530, 5th year, in English: lectures, tutorials and labs), algorithms and C programming (CS101, CS221, IN330), operating systems (IN333) and student projects (PX111).
+- Research in symmetric-key cryptanalysis at LCIS.
 
 ### **Postdoctoral Researcher**
-**Télécom Paris, Institut Polytechnique de Paris, France** | *June 2025 – Present*
+**Télécom Paris, Institut Polytechnique de Paris, France** | *June 2025 – June 2026*
 
 - Designed and evaluated lightweight cryptographic primitives tailored for constrained environments and Multi-Party Computation (MPC).
 - Analyzed security vs. performance trade-offs for hardware-friendly cryptographic implementations.
@@ -100,6 +106,8 @@ redirect_from:
 ## 🛠️ Services
 
 - **2023 – 2026**: External Reviewer for *ASIACRYPT 2023, EUROCRYPT 2024, CRYPTO 2024, CRYPTO 2025, CRYPTO 2026*.
+- **2025**: Program Committee member, *VCRIS 2025*.
+- **2024**: Reviewer, *VCRIS 2024*.
 - **04/2023**: Volunteer at *EUROCRYPT 2023*, assisting in event coordination and participant support.
 
 ---
