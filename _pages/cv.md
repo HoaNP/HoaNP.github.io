@@ -31,7 +31,7 @@ redirect_from:
 ### **ATER (Attaché Temporaire d'Enseignement et de Recherche) in Computer Science**
 **Grenoble INP – Esisar, LCIS laboratory, Valence, France** | *September 2026 – Present*
 
-- Teaching cryptography (IN530, 5th year, in English: lectures, tutorials and labs), algorithms and C programming (CS101, CS221, IN330), operating systems (IN333) and student projects (PX111).
+- Teaching cryptography as module lead ([IN530](/teaching/2026-in530-cryptography), 5th year, in English: lectures, tutorials and labs), algorithms and C programming (CS101, CS221, IN330), operating systems (IN333) and student projects (PX111).
 - Research in symmetric-key cryptanalysis at LCIS.
 
 ### **Postdoctoral Researcher**
@@ -86,20 +86,35 @@ redirect_from:
 
 ## 📜 Publications
 
-1. Debasmita Chakraborty, Hosein Hadipour, **Phuong Hoa Nguyen**, Maria Eichlseder,  
+1. Debasmita Chakraborty, Soumya Sahoo, **Phuong Hoa Nguyen**, Santanu Sarkar,  
+   *An Automated Model for Differential Meet in the Middle Attacks on AndRX Ciphers*,  
+   **Scientific Reports**, vol. 16, article 14773, 2026.  
+   [DOI: 10.1038/s41598-026-41390-w](https://doi.org/10.1038/s41598-026-41390-w)
+
+2. Debasmita Chakraborty, Hosein Hadipour, **Phuong Hoa Nguyen**, Maria Eichlseder,  
    *Finding Complete Impossible Differential Attacks on AndRX Ciphers and Efficient Distinguishers for ARX Designs*,  
-   **IACR Transactions on Symmetric Cryptology**, TOSC-2024(3).  
+   **IACR Transactions on Symmetric Cryptology**, 2024(3):84–176. Presented at FSE 2025.  
    [DOI: 10.46586/tosc.v2024.i3.84-176](https://doi.org/10.46586/tosc.v2024.i3.84-176)
 
-2. Patrick Derbez, Marie Euler, Pierre-Alain Fouque, **Phuong Hoa Nguyen**,  
+3. Patrick Derbez, Marie Euler, Pierre-Alain Fouque, **Phuong Hoa Nguyen**,  
    *Revisiting Related-Key Boomerang Attacks on AES Using Computer-Aided Tools*,  
    **Advances in Cryptology – ASIACRYPT 2022**.  
    [DOI: 10.1007/978-3-031-22969-5_3](https://doi.org/10.1007/978-3-031-22969-5_3)
 
-3. Minh Hoàng Hà, **Hoa Nguyen Phuong**, Huyen Tran Ngoc Nhat, André Langevin, Martin Trépanier,  
+4. Minh Hoàng Hà, **Hoa Nguyen Phuong**, Huyen Tran Ngoc Nhat, André Langevin, Martin Trépanier,  
    *Solving the Clustered Traveling Salesman Problem with D-Relaxed Priority Rule*,  
-   **International Transactions in Operational Research**.  
+   **International Transactions in Operational Research**, 29(2):837–853, 2022.  
    [DOI: 10.1111/itor.12797](https://doi.org/10.1111/itor.12797)
+
+---
+
+## 🎤 Talks
+
+- **02/2025**: Crypto Day, Télécom Paris, Institut Polytechnique de Paris, Palaiseau.
+- **10/2024**: CAPLOCK Seminar (CAPSULE team), IRISA / Inria, Rennes.
+- **05/2024**: Cryptography Group Seminar (CARAMBA team), LORIA / Inria, Nancy.
+- **05/2023**: CAPLOCK Seminar (CAPSULE team), IRISA, Rennes.
+- **12/2022**: ASIACRYPT 2022, Taipei, Taiwan.
 
 ---
 
